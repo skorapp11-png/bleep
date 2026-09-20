@@ -1,0 +1,6 @@
+{
+  "name": "SmartBuy",
+  "description": "Smart buying assistant tailored to budget and specifications with accurate multi-store price comparisons, genuine discount alerts, multi-currency support (DZD, EUR, USD, etc.), 3 languages (AR, EN, FR), and AI review summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
